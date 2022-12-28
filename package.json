@@ -1,0 +1,23 @@
+{
+  "name": "QRCode_Generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilsonfuta/QRCode_Generate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilsonfuta/QRCode_Generate/issues"
+  },
+  "homepage": "https://github.com/adilsonfuta/QRCode_Generate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
